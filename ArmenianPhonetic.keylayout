@@ -1,7 +1,7 @@
 <?XML version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.4 on 2013-02-10 at 00:22 (GMT+04:00)-->
-<!--Last edited by Ukelele version 2.2.4 on 2013-08-21 at 00:16 (GMT+04:00)-->
+<!--Last edited by Ukelele version 2.2.8 on 2015-02-07 at 17:18 (CET)-->
 <keyboard group="126" id="-14243" name="Armenian - Phonetic" maxout="2">
     <layouts>
         <layout first="0" last="17" modifiers="Modifiers" mapSet="ANSI"/>
@@ -46,7 +46,7 @@
             <key code="3" output="ֆ"/>
             <key code="4" output="հ"/>
             <key code="5" output="գ"/>
-            <key code="6" output="զ"/>
+            <key code="6" output="ը"/>
             <key code="7" output="ղ"/>
             <key code="8" output="ց"/>
             <key code="9" output="վ"/>
@@ -55,7 +55,7 @@
             <key code="13" output="ո"/>
             <key code="14" output="ե"/>
             <key code="15" output="ռ"/>
-            <key code="16" output="ը"/>
+            <key code="16" output="զ"/>
             <key code="17" output="տ"/>
             <key code="18" output="է"/>
             <key code="19" output="թ"/>
@@ -66,7 +66,7 @@
             <key code="24" output="ժ"/>
             <key code="25" output="չ"/>
             <key code="26" output="եւ"/>
-            <key code="27" output="-"/>
+            <key code="27" output="?"/>
             <key code="28" output="ր"/>
             <key code="29" output="ճ"/>
             <key code="30" output="ծ"/>
@@ -135,7 +135,7 @@
             <key code="3" output="Ֆ"/>
             <key code="4" output="Հ"/>
             <key code="5" output="Գ"/>
-            <key code="6" output="Զ"/>
+            <key code="6" output="Ը"/>
             <key code="7" output="Ղ"/>
             <key code="8" output="Ց"/>
             <key code="9" output="Վ"/>
@@ -144,7 +144,7 @@
             <key code="13" output="Ո"/>
             <key code="14" output="Ե"/>
             <key code="15" output="Ռ"/>
-            <key code="16" output="Ը"/>
+            <key code="16" output="Զ"/>
             <key code="17" output="Տ"/>
             <key code="18" output="Է"/>
             <key code="19" output="Թ"/>
